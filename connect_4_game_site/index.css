@@ -1,0 +1,19 @@
+.board button{
+  width: 100px;
+  height: 100px;
+  background-color: #090970;
+  margin: 1px;
+  border: 4px solid #9595c4;
+  border-radius: 50%;
+}
+
+body{
+  background-color: #0f0e0e;
+}
+
+h2{
+  color: #d351ed;
+}
+ h3{
+   color: #34adad;
+ }
